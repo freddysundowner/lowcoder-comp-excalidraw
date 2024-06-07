@@ -1,4 +1,4 @@
-import { getI18nObjects, getValueByLocale, Translator } from "lowcoder-sdk";
+import { getI18nObjects, getValueByLocale, Translator, } from "lowcoder-sdk";
 import * as localeData from "./locales";
 import { I18nObjects } from "./locales/types";
 
