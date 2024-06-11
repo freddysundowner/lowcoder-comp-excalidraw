@@ -1,4 +1,4 @@
-import { JSONObject } from "lowcoder-sdk";
+import { JSONObject, toJSONObjectArray } from "lowcoder-sdk";
 
 export type JSONValue = string | number | boolean | JSONObject | JSONArray | null;
 
